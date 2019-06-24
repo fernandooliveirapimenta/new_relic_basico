@@ -1,0 +1,3 @@
+precisamos instalar um agente no nosso servidor: ex t3.medium
+docker só paga pelo host nao qtd de container
+é uma ferramenta totalmente paga
